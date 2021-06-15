@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ## About me
+- My name is Muhammad Irsyad Makarim
+- A student in Telkom University
 - I'm an amateur game dev and mobile dev.
 - Specialized in Godot Engine and Android Studio
 - Currently learning more about Mobile Programming, especially Android and more about Godot Engine
