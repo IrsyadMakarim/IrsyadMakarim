@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## About me
+- I'm an amateur game dev and mobile dev.
+- Specialized in Godot Engine and Android Studio
+- Currently learning more about Mobile Programming, especially Android and more about Godot Engine
+- Trying to learn about 3D Modelling in Blender
+
+## Basic Skills
+- Kotlin
+- GDScript
+- Java
 <!--
 **IrsyadMakarim/IrsyadMakarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
